@@ -1,9 +1,9 @@
-# TechCrunch Home Page
+# TechCrunch Homepage
 
-Original: https://i.imgur.com/3q6Fefj.png
+Original: https://i.ibb.co/6J4ZqkY/1.png
 
 My attempt: https://notare.github.io/techcrunch-home-page
 
-Mobile: https://i.imgur.com/ekoUmWS.png
+Mobile: https://i.ibb.co/SV6Qn1y/2.png
 
 Tech used: HTML and CSS
